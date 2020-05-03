@@ -1,0 +1,4 @@
+﻿id	name	price
+1	silver	3.2
+2	gold	5
+3	platinum	7.31
